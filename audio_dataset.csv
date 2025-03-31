@@ -1,0 +1,85 @@
+filepath,profession,gender,speaker_number
+wav_dataset\Cook3.wav,cook,cook_female,01
+wav_dataset\Голос 024.wav,cook,cook_female,01
+wav_dataset\Голос 025.wav,cook,cook_female,01
+wav_dataset\Голос 026.wav,cook,cook_female,01
+wav_dataset\Голос 027.wav,cook,cook_female,01
+wav_dataset\Голос 028.wav,cook,cook_female,01
+wav_dataset\Голос 029.wav,cook,cook_female,01
+wav_dataset\Голос 030.wav,cook,cook_female,01
+wav_dataset\Голос 031.wav,cook,cook_female,01
+wav_dataset\Голос 032.wav,cook,cook_female,01
+wav_dataset\Голос 033.wav,cook,cook_female,01
+wav_dataset\Голос 034.wav,cook,cook_female,01
+wav_dataset\Cook4.wav,cook,cook_female,02
+wav_dataset\Голос 035.wav,cook,cook_female,02
+wav_dataset\Голос 036.wav,cook,cook_female,02
+wav_dataset\Голос 037.wav,cook,cook_female,02
+wav_dataset\Голос 038.wav,cook,cook_female,02
+wav_dataset\Голос 039.wav,cook,cook_female,02
+wav_dataset\Голос 040.wav,cook,cook_female,02
+wav_dataset\Голос 041.wav,cook,cook_female,02
+wav_dataset\Голос 042.wav,cook,cook_female,02
+wav_dataset\Голос 043.wav,cook,cook_female,02
+wav_dataset\Cook1.wav,cook,cook_male,01
+wav_dataset\cook1_10.wav,cook,cook_male,01
+wav_dataset\Cook1_2.wav,cook,cook_male,01
+wav_dataset\cook1_4.wav,cook,cook_male,01
+wav_dataset\cook1_5.wav,cook,cook_male,01
+wav_dataset\cook1_6.wav,cook,cook_male,01
+wav_dataset\cook1_7.wav,cook,cook_male,01
+wav_dataset\cook1_8.wav,cook,cook_male,01
+wav_dataset\cook1_9.wav,cook,cook_male,01
+wav_dataset\N.wav,cook,cook_male,01
+wav_dataset\Cook2.wav,cook,cook_male,02
+wav_dataset\M.wav,cook,cook_male,02
+wav_dataset\Голос 015.wav,cook,cook_male,02
+wav_dataset\Голос 016.wav,cook,cook_male,02
+wav_dataset\Голос 017.wav,cook,cook_male,02
+wav_dataset\Голос 018.wav,cook,cook_male,02
+wav_dataset\Голос 019.wav,cook,cook_male,02
+wav_dataset\Голос 020.wav,cook,cook_male,02
+wav_dataset\Голос 021.wav,cook,cook_male,02
+wav_dataset\Голос 022.wav,cook,cook_male,02
+wav_dataset\Голос 023.wav,cook,cook_male,02
+wav_dataset\Progarmmer3.wav,programmer,programmer_female,01
+wav_dataset\Голос 062.wav,programmer,programmer_female,01
+wav_dataset\Голос 063.wav,programmer,programmer_female,01
+wav_dataset\Голос 064.wav,programmer,programmer_female,01
+wav_dataset\Голос 065.wav,programmer,programmer_female,01
+wav_dataset\Голос 066.wav,programmer,programmer_female,01
+wav_dataset\Голос 067.wav,programmer,programmer_female,01
+wav_dataset\Голос 068.wav,programmer,programmer_female,01
+wav_dataset\Голос 069.wav,programmer,programmer_female,01
+wav_dataset\Голос 070.wav,programmer,programmer_female,01
+wav_dataset\Голос 071.wav,programmer,programmer_female,01
+wav_dataset\Programmer4.wav,programmer,programmer_female,02
+wav_dataset\R.wav,programmer,programmer_female,02
+wav_dataset\Голос 073.wav,programmer,programmer_female,02
+wav_dataset\Голос 074.wav,programmer,programmer_female,02
+wav_dataset\Голос 075.wav,programmer,programmer_female,02
+wav_dataset\Голос 076.wav,programmer,programmer_female,02
+wav_dataset\Голос 077.wav,programmer,programmer_female,02
+wav_dataset\Голос 078.wav,programmer,programmer_female,02
+wav_dataset\Голос 079.wav,programmer,programmer_female,02
+wav_dataset\Голос 080.wav,programmer,programmer_female,02
+wav_dataset\Programmer1.wav,programmer,programmer_male,01
+wav_dataset\Голос 044.wav,programmer,programmer_male,01
+wav_dataset\Голос 045.wav,programmer,programmer_male,01
+wav_dataset\Голос 046.wav,programmer,programmer_male,01
+wav_dataset\Голос 047.wav,programmer,programmer_male,01
+wav_dataset\Голос 048.wav,programmer,programmer_male,01
+wav_dataset\Голос 049.wav,programmer,programmer_male,01
+wav_dataset\Голос 050.wav,programmer,programmer_male,01
+wav_dataset\Голос 051.wav,programmer,programmer_male,01
+wav_dataset\Голос 052.wav,programmer,programmer_male,01
+wav_dataset\Programmer2.wav,programmer,programmer_male,02
+wav_dataset\Голос 053.wav,programmer,programmer_male,02
+wav_dataset\Голос 054.wav,programmer,programmer_male,02
+wav_dataset\Голос 055.wav,programmer,programmer_male,02
+wav_dataset\Голос 056.wav,programmer,programmer_male,02
+wav_dataset\Голос 057.wav,programmer,programmer_male,02
+wav_dataset\Голос 058.wav,programmer,programmer_male,02
+wav_dataset\Голос 059.wav,programmer,programmer_male,02
+wav_dataset\Голос 060.wav,programmer,programmer_male,02
+wav_dataset\Голос 061.wav,programmer,programmer_male,02
