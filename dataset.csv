@@ -1,156 +1,156 @@
-filepath,profession,gender,speaker_number,data_source,transcript,text
-wav_dataset\Cook3.wav,cook,cook_female,1.0,audio,,
-wav_dataset\Голос 024.wav,cook,cook_female,1.0,audio,,
-wav_dataset\Голос 025.wav,cook,cook_female,1.0,audio,,
-wav_dataset\Голос 026.wav,cook,cook_female,1.0,audio,,
-wav_dataset\Голос 027.wav,cook,cook_female,1.0,audio,,
-wav_dataset\Голос 028.wav,cook,cook_female,1.0,audio,,
-wav_dataset\Голос 029.wav,cook,cook_female,1.0,audio,,
-wav_dataset\Голос 030.wav,cook,cook_female,1.0,audio,,
-wav_dataset\Голос 031.wav,cook,cook_female,1.0,audio,,
-wav_dataset\Голос 032.wav,cook,cook_female,1.0,audio,,
-wav_dataset\Голос 033.wav,cook,cook_female,1.0,audio,,
-wav_dataset\Голос 034.wav,cook,cook_female,1.0,audio,,
-wav_dataset\Cook4.wav,cook,cook_female,2.0,audio,,
-wav_dataset\Голос 035.wav,cook,cook_female,2.0,audio,,
-wav_dataset\Голос 036.wav,cook,cook_female,2.0,audio,,
-wav_dataset\Голос 037.wav,cook,cook_female,2.0,audio,,
-wav_dataset\Голос 038.wav,cook,cook_female,2.0,audio,,
-wav_dataset\Голос 039.wav,cook,cook_female,2.0,audio,,
-wav_dataset\Голос 040.wav,cook,cook_female,2.0,audio,,
-wav_dataset\Голос 041.wav,cook,cook_female,2.0,audio,,
-wav_dataset\Голос 042.wav,cook,cook_female,2.0,audio,,
-wav_dataset\Голос 043.wav,cook,cook_female,2.0,audio,,
-wav_dataset\Cook1.wav,cook,cook_male,1.0,audio,,
-wav_dataset\cook1_10.wav,cook,cook_male,1.0,audio,,
-wav_dataset\Cook1_2.wav,cook,cook_male,1.0,audio,,
-wav_dataset\cook1_4.wav,cook,cook_male,1.0,audio,,
-wav_dataset\cook1_5.wav,cook,cook_male,1.0,audio,,
-wav_dataset\cook1_6.wav,cook,cook_male,1.0,audio,,
-wav_dataset\cook1_7.wav,cook,cook_male,1.0,audio,,
-wav_dataset\cook1_8.wav,cook,cook_male,1.0,audio,,
-wav_dataset\cook1_9.wav,cook,cook_male,1.0,audio,,
-wav_dataset\N.wav,cook,cook_male,1.0,audio,,
-wav_dataset\Cook2.wav,cook,cook_male,2.0,audio,,
-wav_dataset\M.wav,cook,cook_male,2.0,audio,,
-wav_dataset\Голос 015.wav,cook,cook_male,2.0,audio,,
-wav_dataset\Голос 016.wav,cook,cook_male,2.0,audio,,
-wav_dataset\Голос 017.wav,cook,cook_male,2.0,audio,,
-wav_dataset\Голос 018.wav,cook,cook_male,2.0,audio,,
-wav_dataset\Голос 019.wav,cook,cook_male,2.0,audio,,
-wav_dataset\Голос 020.wav,cook,cook_male,2.0,audio,,
-wav_dataset\Голос 021.wav,cook,cook_male,2.0,audio,,
-wav_dataset\Голос 022.wav,cook,cook_male,2.0,audio,,
-wav_dataset\Голос 023.wav,cook,cook_male,2.0,audio,,
-wav_dataset\Progarmmer3.wav,programmer,programmer_female,1.0,audio,,
-wav_dataset\Голос 062.wav,programmer,programmer_female,1.0,audio,,
-wav_dataset\Голос 063.wav,programmer,programmer_female,1.0,audio,,
-wav_dataset\Голос 064.wav,programmer,programmer_female,1.0,audio,,
-wav_dataset\Голос 065.wav,programmer,programmer_female,1.0,audio,,
-wav_dataset\Голос 066.wav,programmer,programmer_female,1.0,audio,,
-wav_dataset\Голос 067.wav,programmer,programmer_female,1.0,audio,,
-wav_dataset\Голос 068.wav,programmer,programmer_female,1.0,audio,,
-wav_dataset\Голос 069.wav,programmer,programmer_female,1.0,audio,,
-wav_dataset\Голос 070.wav,programmer,programmer_female,1.0,audio,,
-wav_dataset\Голос 071.wav,programmer,programmer_female,1.0,audio,,
-wav_dataset\Programmer4.wav,programmer,programmer_female,2.0,audio,,
-wav_dataset\R.wav,programmer,programmer_female,2.0,audio,,
-wav_dataset\Голос 073.wav,programmer,programmer_female,2.0,audio,,
-wav_dataset\Голос 074.wav,programmer,programmer_female,2.0,audio,,
-wav_dataset\Голос 075.wav,programmer,programmer_female,2.0,audio,,
-wav_dataset\Голос 076.wav,programmer,programmer_female,2.0,audio,,
-wav_dataset\Голос 077.wav,programmer,programmer_female,2.0,audio,,
-wav_dataset\Голос 078.wav,programmer,programmer_female,2.0,audio,,
-wav_dataset\Голос 079.wav,programmer,programmer_female,2.0,audio,,
-wav_dataset\Голос 080.wav,programmer,programmer_female,2.0,audio,,
-wav_dataset\Programmer1.wav,programmer,programmer_male,1.0,audio,,
-wav_dataset\Голос 044.wav,programmer,programmer_male,1.0,audio,,
-wav_dataset\Голос 045.wav,programmer,programmer_male,1.0,audio,,
-wav_dataset\Голос 046.wav,programmer,programmer_male,1.0,audio,,
-wav_dataset\Голос 047.wav,programmer,programmer_male,1.0,audio,,
-wav_dataset\Голос 048.wav,programmer,programmer_male,1.0,audio,,
-wav_dataset\Голос 049.wav,programmer,programmer_male,1.0,audio,,
-wav_dataset\Голос 050.wav,programmer,programmer_male,1.0,audio,,
-wav_dataset\Голос 051.wav,programmer,programmer_male,1.0,audio,,
-wav_dataset\Голос 052.wav,programmer,programmer_male,1.0,audio,,
-wav_dataset\Programmer2.wav,programmer,programmer_male,2.0,audio,,
-wav_dataset\Голос 053.wav,programmer,programmer_male,2.0,audio,,
-wav_dataset\Голос 054.wav,programmer,programmer_male,2.0,audio,,
-wav_dataset\Голос 055.wav,programmer,programmer_male,2.0,audio,,
-wav_dataset\Голос 056.wav,programmer,programmer_male,2.0,audio,,
-wav_dataset\Голос 057.wav,programmer,programmer_male,2.0,audio,,
-wav_dataset\Голос 058.wav,programmer,programmer_male,2.0,audio,,
-wav_dataset\Голос 059.wav,programmer,programmer_male,2.0,audio,,
-wav_dataset\Голос 060.wav,programmer,programmer_male,2.0,audio,,
-wav_dataset\Голос 061.wav,programmer,programmer_male,2.0,audio,,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0420-S1-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0420-S1-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0420-S1-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0420-S1-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0420-S1-T03.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0420-S1-T03.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0420-S1-T04.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0420-S1-T04.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0420-S1-T05.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0420-S1-T05.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0420-S2-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0420-S2-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0420-S3-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0420-S3-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0420-S3-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0420-S3-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0420-S3-T03.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0420-S3-T03.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0420-S4-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0420-S4-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0420-S4-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0420-S4-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0421-S1-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0421-S1-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0421-S1-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0421-S1-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0421-S1-T03.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0421-S1-T03.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0421-S1-T04.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0421-S1-T04.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0421-S1-T05.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0421-S1-T05.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0421-S2-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0421-S2-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0421-S2-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0421-S2-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0421-S3-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0421-S3-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0421-S3-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0421-S3-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0421-S3-T03.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0421-S3-T03.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0421-S3-T04.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0421-S3-T04.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0421-S3-T05.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0421-S3-T05.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S1-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S1-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S1-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S1-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S1-T03.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S1-T03.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S1-T04.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S1-T04.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S2-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S2-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S2-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S2-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S3-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S3-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S3-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S3-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S3-T03.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S3-T03.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S3-T04.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S3-T04.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S3-T05.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S3-T05.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S3-T06.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S3-T06.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S4-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S4-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S4-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S4-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S4-T03.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S4-T03.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S4-T04.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S4-T04.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0422-S4-T05.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0422-S4-T05.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0423-S1-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0423-S1-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0423-S1-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0423-S1-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0423-S1-T03.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0423-S1-T03.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0423-S2-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0423-S2-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0423-S2-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0423-S2-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0423-S2-T03.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0423-S2-T03.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0424-S1-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0424-S1-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0424-S1-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0424-S1-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0424-S1-T03.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0424-S1-T03.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0424-S2-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0424-S2-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0424-S2-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0424-S2-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0424-S2-T03.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0424-S2-T03.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0424-S2-T04.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0424-S2-T04.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0424-S2-T05.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0424-S2-T05.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0424-S2-T06.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0424-S2-T06.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0424-S3-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0424-S3-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0424-S3-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0424-S3-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0424-S3-T03.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0424-S3-T03.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0424-S3-T04.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0424-S3-T04.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0425-S1-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0425-S1-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0425-S1-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0425-S1-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0425-S1-T03.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0425-S1-T03.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0425-S2-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0425-S2-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0425-S2-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0425-S2-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0425-S2-T03.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0425-S2-T03.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0425-S2-T04.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0425-S2-T04.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0425-S3-T01.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0425-S3-T01.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0425-S3-T02.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0425-S3-T02.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0425-S3-T03.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0425-S3-T03.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0425-S3-T04.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0425-S3-T04.pdf,
-C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/recordings\D0425-S3-T05.wav,psychiatrist,,,medical,C:/Users/user/Desktop/датасет_врач/dataset_automated_medical_transcription-1.0/transcripts/source\D0425-S3-T05.pdf,
+filepath,profession,gender
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0420-S1-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0420-S1-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0420-S1-T03.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0420-S1-T04.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0420-S1-T05.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0420-S2-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0420-S3-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0420-S3-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0420-S3-T03.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0420-S4-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0420-S4-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0421-S1-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0421-S1-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0421-S1-T03.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0421-S1-T04.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0421-S1-T05.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0421-S2-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0421-S2-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0421-S3-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0421-S3-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0421-S3-T03.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0421-S3-T04.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0421-S3-T05.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S1-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S1-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S1-T03.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S1-T04.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S2-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S2-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S3-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S3-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S3-T03.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S3-T04.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S3-T05.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S3-T06.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S4-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S4-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S4-T03.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S4-T04.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0422-S4-T05.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0423-S1-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0423-S1-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0423-S1-T03.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0423-S2-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0423-S2-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0423-S2-T03.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0424-S1-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0424-S1-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0424-S1-T03.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0424-S2-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0424-S2-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0424-S2-T03.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0424-S2-T04.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0424-S2-T05.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0424-S2-T06.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0424-S3-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0424-S3-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0424-S3-T03.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0424-S3-T04.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0425-S1-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0425-S1-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0425-S1-T03.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0425-S2-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0425-S2-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0425-S2-T03.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0425-S2-T04.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0425-S3-T01.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0425-S3-T02.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0425-S3-T03.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0425-S3-T04.wav,doctor,unknown
+c:\Users\user\Desktop\doctor_dataset\dataset_automated_medical_transcription-1.0\recordings\D0425-S3-T05.wav,doctor,unknown
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_01\Cook3.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_01\Golos_024.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_01\Golos_025.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_01\Golos_026.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_01\Golos_027.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_01\Golos_028.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_01\Golos_029.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_01\Golos_030.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_01\Golos_031.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_01\Golos_032.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_01\Golos_033.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_01\Golos_034.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_02\Cook4.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_02\Golos_035.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_02\Golos_036.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_02\Golos_037.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_02\Golos_038.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_02\Golos_039.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_02\Golos_040.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_02\Golos_041.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_02\Golos_042.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_female\cook_female_02\Golos_043.m4a,cook,female
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_01\Cook1.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_01\cook1_10.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_01\Cook1_2.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_01\cook1_4.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_01\cook1_5.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_01\cook1_6.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_01\cook1_7.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_01\cook1_8.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_01\cook1_9.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_01\N.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_02\Cook2.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_02\Golos_015.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_02\Golos_016.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_02\Golos_017.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_02\Golos_018.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_02\Golos_019.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_02\Golos_020.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_02\Golos_021.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_02\Golos_022.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_02\Golos_023.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\cook\cook_male\cook_male_02\M.m4a,cook,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_01\Golos_062.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_01\Golos_063.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_01\Golos_064.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_01\Golos_065.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_01\Golos_066.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_01\Golos_067.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_01\Golos_068.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_01\Golos_069.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_01\Golos_070.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_01\Golos_071.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_01\Progarmmer3.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_02\Golos_073.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_02\Golos_074.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_02\Golos_075.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_02\Golos_076.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_02\Golos_077.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_02\Golos_078.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_02\Golos_079.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_02\Golos_080.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_02\Programmer4.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_female\programmer_female_02\R.m4a,programmer,female
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_01\Golos_044.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_01\Golos_045.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_01\Golos_046.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_01\Golos_047.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_01\Golos_048.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_01\Golos_049.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_01\Golos_050.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_01\Golos_051.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_01\Golos_052.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_01\Programmer1.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_02\Golos_053.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_02\Golos_054.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_02\Golos_055.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_02\Golos_056.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_02\Golos_057.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_02\Golos_058.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_02\Golos_059.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_02\Golos_060.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_02\Golos_061.m4a,programmer,male
+C:\Users\user\Desktop\my_dataset\audiofiles\programmer\programmer_male\programmer_male_02\Programmer2.m4a,programmer,male
