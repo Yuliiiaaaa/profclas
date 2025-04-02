@@ -4,7 +4,7 @@ from sklearn.manifold import TSNE
 import seaborn as sns
 import pandas as pd
 
-data = np.load("./numpy_embs.npy", allow_pickle=True)
+data = np.load("embs/numpy_embs.npy", allow_pickle=True)
 
 
 embeddings = data 
@@ -44,6 +44,6 @@ plt.ylabel("Dimension 2", fontsize=12)
 plt.grid(True, linestyle='--', alpha=0.5)
 
 plt.tight_layout()
-plt.savefig("embeddings_tsne.png", dpi=300, bbox_inches='tight')
+plt.savefig("embs/embeddings_tsne.png", dpi=300, bbox_inches='tight')
 plt.show()
 print("График сохранён как 'embeddings_tsne.png'")
