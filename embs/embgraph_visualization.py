@@ -4,21 +4,23 @@ from sklearn.manifold import TSNE
 import seaborn as sns
 import pandas as pd
 
-data = np.load(r"C:\Users\user\Desktop\my_dataset\embs\numpy_embs.npy", allow_pickle=True).item() 
-train_embs = data["train"]  
+data = np.load("./numpy_embs.npy", allow_pickle=True)
 
-embeddings = np.array([item["embedding"] for item in train_embs])
-labels = np.array([item["label"] for item in train_embs])
-file_paths = np.array([item["file_path"] for item in train_embs]) 
 
-print(f"Загружено {len(embeddings)} эмбеддингов размерности {embeddings.shape[1]}")
+embeddings = data 
+
+embeddings_values = np.array([item["embedding"] for item in embeddings])
+labels = np.array([item["label"] for item in embeddings])
+file_paths = np.array([item["file_path"] for item in embeddings])
+
+print(f"Загружено {len(embeddings)} эмбеддингов размерности {embeddings_values.shape[1]}")
 
 tsne = TSNE(
     n_components=2,
     perplexity=30,
     random_state=42
 )
-embeddings_2d = tsne.fit_transform(embeddings)
+embeddings_2d = tsne.fit_transform(embeddings_values)
 
 plt.figure(figsize=(12, 8))
 
@@ -27,8 +29,8 @@ palette = sns.color_palette("husl", len(set(labels)))
 for i, label in enumerate(set(labels)):
     idx = np.where(labels == label)
     plt.scatter(
-        embeddings_2d[idx, 0], 
-        embeddings_2d[idx, 1], 
+        embeddings_2d[idx, 0],
+        embeddings_2d[idx, 1],
         color=palette[i],
         label=label,
         alpha=0.7,
